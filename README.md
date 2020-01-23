@@ -1,3 +1,4 @@
 # Systempraktikum
 Develop a Client to play Reversi/Othello (Programming language C)
-Focus on Interprocess communication
+
+Focussing on Interprocess communication
